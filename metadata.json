@@ -1,0 +1,6 @@
+{
+  "name": "Lipidata Employee Portal",
+  "description": "Premium internal application for Lipidata employees featuring custom splash network check, dynamic leave management, real-time status tracker, interactive dashboard, and support ticketing system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
